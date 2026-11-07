@@ -1,2 +1,3 @@
 .DS_Store
 .remember
+__pycache__
